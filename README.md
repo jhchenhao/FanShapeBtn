@@ -32,11 +32,12 @@ MainBtn *view1 = [[MainBtn alloc] initWithFrame:CGRectMake(100, 150, 200, 200)];
 @property (nonatomic, assign) id<MainBtnDelegate> delegate; //点击小扇形回调的代理
 ```
 
+#角度说明
+![QQ20160421-0](https://github.com/GithubChinaCH/FanShapeBtn/raw/master/QQ20160421-0.png)
 
 
 
 
 
-
-
+#gif图
 ![fanbtn](https://github.com/GithubChinaCH/FanShapeBtn/raw/master/fanbtn.gif)
